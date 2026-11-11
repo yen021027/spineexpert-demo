@@ -1,0 +1,8 @@
+{
+  "name": "spineexpert-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "鄞宗誠醫師部落格靜態示範網站",
+  "scripts": {"test": "node tests/site.spec.cjs", "serve": "node scripts/server.cjs"},
+  "devDependencies": {"@playwright/test": "^1.58.2", "@axe-core/playwright": "^4.11.1"}
+}
